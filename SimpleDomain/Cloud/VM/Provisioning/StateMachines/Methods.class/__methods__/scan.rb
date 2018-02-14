@@ -1,3 +1,4 @@
+# This is a scaning method
 #
 # Description: This method performs SmartState analysis on a VM
 #
